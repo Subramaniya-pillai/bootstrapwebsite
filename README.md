@@ -763,8 +763,8 @@ Publish the website in the given URL.
 ### ABOUT US:
 ![git](./3.png)
 ### GALLERY:
-![GIT](./4.PNG)
+![GIT](./4.png)
 ### CONTACT US:
-![GIT](./5.PNG)
+![GIT](./5.png)
 ## Result:
   THUS A website has been designed using bootstrap framework
